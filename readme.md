@@ -1,4 +1,5 @@
-Important notes your project folder must be directly in `c:/` also project template must be in `FOS_Codes`.
+Important notes 
+your project folder must be directly in `c:/` also project template must be in `FOS_CODES`.
 currently only support windows.
 
 After extracting `fos_vscode.rar` inside the `fos_cygwin` folder:
