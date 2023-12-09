@@ -1,3 +1,6 @@
+Important notes your project folder must be directly in `c:/` also project template must be in `FOS_Codes`.
+currently only support windows.
+
 After extracting `fos_vscode.rar` inside the `fos_cygwin` folder:
 
 If your cohort is 2024 or later, modify the `build.bat` and `tasks.json` file in the `.vscode` folder to replace any occurrences of "2023" with your current year. Open `fos_cygwin` as a project folder in VS Code.
