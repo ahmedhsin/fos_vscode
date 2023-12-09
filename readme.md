@@ -1,6 +1,6 @@
 After extracting `fos_vscode.rar` inside the `fos_cygwin` folder:
 
-If your cohort is 2024 or later, modify the `build.bat` file in the `.vscode` folder to replace any occurrences of "2023" with your current year. Open `fos_cygwin` as a project folder in VS Code.
+If your cohort is 2024 or later, modify the `build.bat` and `tasks.json` file in the `.vscode` folder to replace any occurrences of "2023" with your current year. Open `fos_cygwin` as a project folder in VS Code.
 
 You can run it by pressing `Ctrl+Shift+P`, then select "Run Tasks" and choose "Run FOS."
 
