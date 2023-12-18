@@ -6,7 +6,7 @@
 
 2. If you are using the "FOS with VSCode Changes" version (check `FOS_Readme_2.txt` for confirmation), you do not need to apply these modifications; they are already integrated.
 
-If you want to use the full FOS with QEMU without Eclipse, download it from [www.temp.com](www.temp.com).
+If you want to use the full FOS with QEMU without Eclipse, download it from [fos_cygwin](https://github.com/ahmedhsin/fos_cygwin).
 
 After extracting the contents of `fos_vscode.rar` into the `fos_cygwin` folder:
 
